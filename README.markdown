@@ -1,6 +1,7 @@
 # Listing
 
-A very basic PHP script to list files within a directory. Useful to share some file.
+A very basic PHP script to list files within a directory. Useful to share a FTP directory with only a code snippet.
+PHP code is old because I use these scripts on shared hosting servers which have 5.1 PHP version.
 
 ## Usage
 
